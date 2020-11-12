@@ -1,0 +1,56 @@
+
+th.MuiTableCell-root.MuiTableCell-head{
+    width: 15%;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 700 !important;
+    border: 1px solid rgba(224, 224, 224, 1);
+}
+th.MuiTableCell-root.MuiTableCell-body{
+    text-align: center;
+    border: 1px solid rgba(224, 224, 224, 1);
+}
+td.MuiTableCell-root.MuiTableCell-body.MuiTableCell-alignRight{
+    text-align: center;
+    border: 1px solid rgba(224, 224, 224, 1);
+}
+#comments{
+    font-size: 9px;
+    text-align: left;
+    font-weight: 700
+}
+#criteria{
+    font-size: 12px;
+    text-align: left;
+    font-weight: 700;
+}
+#criteria1{
+font-size: 12px;
+text-align: left;
+}
+#global{
+    background: antiquewhite;
+
+}
+#green{
+ background: #009933;
+ color: #fff;
+}
+#red{
+    background: red;
+    color: #fff;
+}
+#veryhigh{
+    background: #1a8cff;
+    color: #fff;
+}
+#Medium{
+    background: #ffff00;
+    color:#fff;
+}
+#hand{
+    width: 50%;
+    height: 13%;
+    margin-left: 34px;
+    margin-top: -11px;
+}

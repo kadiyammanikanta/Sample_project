@@ -1,0 +1,62 @@
+.header {
+  display: inherit;
+}
+
+.logo {
+  height: 32px;
+  width: 35px;
+  margin: 16px;
+}
+
+.flex-setting {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 100%;
+}
+
+#menutext {
+  text-transform: capitalize;
+}
+
+.usericon-color {
+  /* color: #fff !important; */
+  margin-top: 8px;
+  margin-right: 9px;
+  display: flex;
+}
+
+.userName {
+  text-transform: capitalize;
+  margin-top: -9px;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: black;
+
+}
+
+main.ant-layout-content.site-layout-background {
+  margin: 45px !important;
+}
+
+.usericonlogout {
+  text-align: center;
+  font-size: x-large;
+  color: #fff !important;
+}
+.site-layout .site-layout-background{
+  /* background: royalblue; */
+}
+.ant-layout-sider-children{
+  background: #222d32;
+ 
+}
+.ant-menu.ant-menu-dark, .ant-menu-dark .ant-menu-sub, .ant-menu.ant-menu-dark .ant-menu-sub{
+  background: #222d32;
+}
+.ant-layout-sider {
+  background: #222d32;
+}
+.ant-dropdown.ant-dropdown-placement-bottomLeft{
+  width: 20%;
+}
+

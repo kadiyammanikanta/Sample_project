@@ -1,0 +1,70 @@
+/* [class~='ant-col'] {
+    background: transparent;
+    border: 0;
+  }
+  [class~='ant-col'] > div {
+    height: 100%;
+    font-size: 14px;
+    line-height: 120px;
+    background: #0092ff;
+  } */
+ 
+  main.ant-layout-content{
+    padding: 0 !important;
+  }
+.grid-row{
+    height: 300px;
+    margin: 0 !important;
+  }
+  .ant-col.ant-col-8{
+    padding: 0 !important;
+  }
+  #home-col{
+    background:#832f92!important;
+    height: 100%;
+  }
+  #user-col{
+    background: #156ad6!important;
+    height: 100%;
+  }
+  #clock-col{
+    background: #a1453a !important;
+    height: 100%;
+  }
+  #heat-col{
+    background: #44a7cd !important;
+    height: 100%;
+  }
+  #contact-col{
+    background: #94979e !important;
+    height: 100%;
+  }
+  #setting-col{
+    background: #1b3977 !important;
+    height: 100%;
+  }
+  div#homeicon{
+    text-align: center;
+  }
+  .icon{
+    margin-top: 94px;
+    font-size:50px;
+    color: black;
+  }
+  .hometext{
+    color:black;
+    font-weight: 700;
+    margin-left: 20px;
+    text-decoration: underline;
+  }
+  .text_align{
+    text-align: center !important;
+  }
+  .ant-layout.ant-layout-has-sider > .ant-layout, .ant-layout.ant-layout-has-sider > .ant-layout-content{
+    overflow-x: initial !important;
+  }
+  .ant-layout-sider-children{
+  height: 153px;
+  }  /* #homeicon{
+    font-size:50px;
+  } */

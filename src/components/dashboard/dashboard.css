@@ -1,0 +1,43 @@
+.site-layout-content {
+    background: #fff;
+    padding: 24px;
+    min-height: 280px;
+  }
+  #components-layout-demo-top .logo {
+    width: 120px;
+    height: 31px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px 24px 16px 0;
+    float: left;
+  }
+  .layout{
+      width: 100% !important;
+  }
+  /* #usericon{
+    font-size: x-large;
+    margin-left: 1238px !important;
+  } */
+  .ant-dropdown.ant-dropdown-placement-bottomLeft.ant-dropdown-hidden{
+    left: 0px !important;
+    top: 0px !important;
+    width: 10%;
+  }
+  .ant-dropdown.ant-dropdown-placement-bottomLeft.ant-dropdown-hidden:hover{
+    left: 0px !important;
+    top: 0px !important;
+    min-width: 10%;
+  }
+  .logoutuser{
+    float: right;
+    font-size: x-large;
+
+  }
+  .usericonlogout{
+    text-align: center;
+    font-size: x-large;
+    color: #fff !important;
+  }
+  .ptaglogout{
+    text-transform:capitalize;
+  }
+  

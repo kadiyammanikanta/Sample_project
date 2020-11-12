@@ -1,0 +1,42 @@
+.MuiGrid-container {
+    flex-flow: initial !important;
+}
+.MuiGrid-grid-md-3{
+    max-width: 0% !important;
+}
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-md-12{
+    margin-left: 222px;
+}
+#social{
+    min-width: 200px !important;
+    border: 3px solid black;
+}
+.MuiPaper-root.MuiCard-root.makeStyles-root-1.MuiPaper-elevation1.MuiPaper-rounded{
+    min-width: 379px;
+}
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary{
+    background-color: sandybrown;
+    float: left;
+}
+.MuiCardContent-root {
+    padding: 16px 0px !important;
+}
+.MuiButton-contained{
+ border-radius: 0px !important;
+}
+button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.MuiButton-outlinedSecondary{
+    color: rgba(0, 0, 0, 0.87);
+    font-weight: 700; 
+    font-size: 13px;
+    border:0px !important;
+}
+svg.MuiSvgIcon-root{
+    font-size: 55px;
+}
+img#hand{
+    width: 50% !important;
+    height: 13% !important;
+}
+button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined{
+    margin-top: -310px;
+}

@@ -1,0 +1,38 @@
+.editable-row .ant-form-item-explain {
+    position: absolute;
+    top: 100%;
+    font-size: 12px;
+  }
+#userlisttable{
+    width: 100% !important;
+    height: 100% !important;
+    background: #fff !important;
+}
+
+button#useraddbutton{
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+span.anticon.anticon-delete{
+    margin-left: 20px;
+}
+th.ant-table-cell{
+    text-align: center !important;
+}
+.ant-row.ant-form-item{
+    text-align: center;
+    margin-top: 20px;
+}
+.ant-modal-footer{
+    display: none;
+}
+div#rcDialogTitle0{
+    text-align: center;
+}
+td.ant-table-cell{
+    text-align: center;
+}
+.ant-layout-sider-children{
+    height: 0px;
+    }
